@@ -1029,3 +1029,19 @@ footer{
 }
 
 /* media query for bigger screens ends here */
+
+
+/* media query for smartphone screens begins here */
+@media screen and (max-width: 600px) {
+  .about-desc #name {
+    font-size: 2.5rem;
+    max-width: 90vw;
+  }
+  .auto-typed {
+    font-size: 2.5rem;
+    display: inline;
+    white-space: nowrap;
+  }
+}
+
+/* media query for smartphones screens ends here */
