@@ -1032,7 +1032,7 @@ footer{
 
 
 /* media query for smartphone screens begins here */
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 600px) {
   .about-desc #name {
     font-size: 2.5rem;
     max-width: 90vw;
